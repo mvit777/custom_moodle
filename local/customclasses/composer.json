@@ -1,0 +1,8 @@
+{
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "league/commonmark": "^0.15",
+        "webuni/commonmark-table-extension": "^0.6.1"
+    }
+}
