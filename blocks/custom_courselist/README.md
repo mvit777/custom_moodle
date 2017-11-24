@@ -20,7 +20,7 @@ $PAGE = CustomLoader::run('custom_page','core','page');
 
 The expected behavior is the chance to customise any of those classes without touching any of moodle files. 
 
-Read more docs at [/local/customclasses/docs/](/local/customclasses/docs/)
+Read more docs at [/local/customclasses/docs/](https://github.com/mvit777/custom_moodle/tree/master/local/customclasses)
 
 Finally this block features a simplistic markup editor inherited from  customclasses plugin.
 

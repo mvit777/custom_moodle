@@ -141,7 +141,7 @@ the second one contains a baseclass which uses [traits](https://en.wikipedia.org
 
 Finally, the local/customclasses/docs folder contains a very basic markdown editor (with which I created this doc) that you can use in any block/plugin. See the blocks/custom_courselist/docs folder to see an implementation.
 
-Also look at the blocks/custom_courselist/README for a general proof-of-concept of all the plugin exposed here.
+Also look at the [blocks/custom_courselist/README](https://github.com/mvit777/custom_moodle/tree/master/blocks/custom_courselist) for a general proof-of-concept of all the plugin exposed here.
 
 ## Personal opinions and conclusions ##
 - A subclassing system like the one exposed (probably refined) should be included in core Moodle.  
