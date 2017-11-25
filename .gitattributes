@@ -1,0 +1,5 @@
+*.js linguist-language=PHP
+**/yui/build/** -diff
+**/amd/build/** -diff
+theme/bootstrapbase/style/editor.css -diff
+theme/bootstrapbase/style/moodle.css -diff
